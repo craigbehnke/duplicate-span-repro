@@ -1,0 +1,7 @@
+{
+  "name": "Duplicate Spans",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
